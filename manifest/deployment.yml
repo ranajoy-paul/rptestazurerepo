@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: portcallopslegacy-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: portcallopslegacy
+  template:
+    metadata:
+      labels: # labels to select/identify the deployment
+        app: portcallopslegacy
+    spec:     # pod spec                  
+      containers: 
+      - name: portcallopslegacy
+        image: swararoycloudnativeorg.azurecr.io/swarajitroy/portcallopslegacy:latest
+        ports:
+        - containerPort: 8081
