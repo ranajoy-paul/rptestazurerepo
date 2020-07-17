@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gleoReport mode="original">
+   <sender>GLEO</sender>
+   <gleo_user>MDA161</gleo_user>
+   <message_type>APP*GLEO</message_type>
+   <control_number>500792</control_number>
+   <report_type>co</report_type>
+   <list_type>di</list_type>
+   <partner_id>DEBRVNTB,DEBREDBH</partner_id>
+   <subject />
+   <discharge_list>
+      <terminal_id>LKCMBOD</terminal_id>
+      <pre_carrier>
+         <vessel_voyage>
+            <vessel_code>L1X</vessel_code>
+            <voyage_number>1908</voyage_number>
+         </vessel_voyage>
+         <transport_mode>1</transport_mode>
+      </pre_carrier>
+      <eta>2020-04-27 00:01</eta>
+      <etd>2020-04-28 22:00</etd>
+      <terminal_berth />
+      <call_reference />
+      <previous_port>INKATTM</previous_port>
+      <next_port>ZADURP1</next_port>
+      <previous_port_etd>2020-04-15 23:01</previous_port_etd>
+      <previous_port_atd>2020-04-15 23:01</previous_port_atd>
+      <next_port_eta>2020-05-04 06:00</next_port_eta>
+      <discharge_list_shipment>
+         <booking_number>501269487</booking_number>
+         <shipment_status>RED</shipment_status>
+         <reason_code>1000</reason_code>
+         <reason_text>NO GCSS STATUS AVAILABLE</reason_text>
+         <discharge_list_line>
+            <container_details is_empty="false">
+               <equipment>
+                  <equipment_number>45665465</equipment_number>
+                  <equipment_size>20</equipment_size>
+                  <equipment_type>DRY</equipment_type>
+                  <equipment_iso_code>22G0</equipment_iso_code>
+               </equipment>
+               <operator>MSK</operator>
+               <gross_weight>2246</gross_weight>
+               <vgm_status>N</vgm_status>
+               <place_of_delivery>LKCMBOD</place_of_delivery>
+               <commodity>
+                  <bill_of_lading_number>501269488</bill_of_lading_number>
+                  <commodity_description>TOYS, GAMES</commodity_description>
+               </commodity>
+            </container_details>
+            <vessel_slot_number />
+            <load_port>INKATTM</load_port>
+         </discharge_list_line>
+         <discharge_list_line>
+            <container_details is_empty="false">
+               <equipment>
+                  <equipment_number>1234567891</equipment_number>
+                  <equipment_size>20</equipment_size>
+                  <equipment_type>DRY</equipment_type>
+                  <equipment_iso_code>22G0</equipment_iso_code>
+               </equipment>
+               <operator>MSK</operator>
+               <gross_weight>2246</gross_weight>
+               <vgm_status>N</vgm_status>
+               <place_of_delivery>LKCMBOD</place_of_delivery>
+               <commodity>
+                  <bill_of_lading_number>501269488</bill_of_lading_number>
+                  <commodity_description>TOYS, GAMES</commodity_description>
+               </commodity>
+            </container_details>
+            <vessel_slot_number />
+            <load_port>INKATTM</load_port>
+         </discharge_list_line>
+      </discharge_list_shipment>
+      <discharge_list_shipment>
+         <booking_number>501269488</booking_number>
+         <shipment_status>RED</shipment_status>
+         <reason_code>1000</reason_code>
+         <reason_text>NO GCSS STATUS AVAILABLE</reason_text>
+         <discharge_list_line>
+            <container_details is_empty="false">
+               <equipment>
+                  <equipment_number>1234567891</equipment_number>
+                  <equipment_size>20</equipment_size>
+                  <equipment_type>DRY</equipment_type>
+                  <equipment_iso_code>22G0</equipment_iso_code>
+               </equipment>
+               <operator>MSK</operator>
+               <gross_weight>2246</gross_weight>
+               <vgm_status>N</vgm_status>
+               <place_of_delivery>LKCMBOD</place_of_delivery>
+               <commodity>
+                  <bill_of_lading_number>501269488</bill_of_lading_number>
+                  <commodity_description>TOYS, GAMES</commodity_description>
+               </commodity>
+            </container_details>
+            <vessel_slot_number />
+            <load_port>INKATTM</load_port>
+         </discharge_list_line>
+         <discharge_list_line>
+            <container_details is_empty="false">
+               <equipment>
+                  <equipment_number>432433</equipment_number>
+                  <equipment_size>20</equipment_size>
+                  <equipment_type>DRY</equipment_type>
+                  <equipment_iso_code>22G0</equipment_iso_code>
+               </equipment>
+               <operator>MSK</operator>
+               <gross_weight>2246</gross_weight>
+               <vgm_status>N</vgm_status>
+               <place_of_delivery>LKCMBOD</place_of_delivery>
+               <commodity>
+                  <bill_of_lading_number>501269489</bill_of_lading_number>
+                  <commodity_description>TOYS, GAMES</commodity_description>
+               </commodity>
+            </container_details>
+            <vessel_slot_number />
+            <load_port>INKATTM</load_port>
+         </discharge_list_line>
+      </discharge_list_shipment>
+      <discharge_list_shipment>
+         <booking_number>501269530</booking_number>
+         <shipper_code>10000031718</shipper_code>
+         <consignee_code>10000031718</consignee_code>
+         <shipment_status>RED</shipment_status>
+         <reason_code>1001</reason_code>
+         <reason_text>THE CONTAINER HAS BEEN REMOVED</reason_text>
+         <discharge_list_line>
+            <container_details is_empty="false">
+               <equipment>
+                  <equipment_number>CBD</equipment_number>
+                  <equipment_size>20</equipment_size>
+                  <equipment_type>DRY</equipment_type>
+                  <equipment_iso_code>22G0</equipment_iso_code>
+               </equipment>
+               <operator>MSK</operator>
+               <gross_weight>2120</gross_weight>
+               <vgm_status>N</vgm_status>
+               <place_of_delivery>LKCMBOD</place_of_delivery>
+               <commodity>
+                  <bill_of_lading_number>501269531</bill_of_lading_number>
+                  <commodity_description>PAPERBOARD, KLB, KRAFT LINER BOARD, LINERBOARD, NEWSPRINT, MAIL</commodity_description>
+               </commodity>
+            </container_details>
+            <vessel_slot_number />
+            <load_port>INKATTM</load_port>
+         </discharge_list_line>
+      </discharge_list_shipment>
+      <discharge_list_shipment>
+         <booking_number>501269629</booking_number>
+         <shipper_code>10000007951</shipper_code>
+         <consignee_code>10000007951</consignee_code>
+         <shipment_status>RED</shipment_status>
+         <reason_code>1001</reason_code>
+         <reason_text>THE CONTAINER HAS BEEN REMOVED</reason_text>
+         <discharge_list_line>
+            <container_details is_empty="false">
+               <equipment>
+                  <equipment_number>23433</equipment_number>
+                  <equipment_size>20</equipment_size>
+                  <equipment_type>DRY</equipment_type>
+                  <equipment_iso_code>22G0</equipment_iso_code>
+               </equipment>
+               <operator>MSK</operator>
+               <gross_weight>2246</gross_weight>
+               <vgm_status>N</vgm_status>
+               <place_of_delivery>LKCMBOD</place_of_delivery>
+               <commodity>
+                  <bill_of_lading_number>501269630</bill_of_lading_number>
+                  <commodity_description>TOYS, GAMES</commodity_description>
+               </commodity>
+               <priority>1</priority>
+            </container_details>
+            <vessel_slot_number />
+            <load_port>INKATTM</load_port>
+         </discharge_list_line>
+         <discharge_list_line>
+            <container_details is_empty="false">
+               <equipment>
+                  <equipment_number>6545346</equipment_number>
+                  <equipment_size>20</equipment_size>
+                  <equipment_type>DRY</equipment_type>
+                  <equipment_iso_code>22G0</equipment_iso_code>
+               </equipment>
+               <operator>MSK</operator>
+               <gross_weight>2246</gross_weight>
+               <vgm_status>N</vgm_status>
+               <place_of_delivery>LKCMBOD</place_of_delivery>
+               <commodity>
+                  <bill_of_lading_number>501269629</bill_of_lading_number>
+                  <commodity_description>TOYS, GAMES</commodity_description>
+               </commodity>
+            </container_details>
+            <vessel_slot_number />
+            <load_port>INKATTM</load_port>
+         </discharge_list_line>
+      </discharge_list_shipment>
+      <discharge_list_shipment>
+         <booking_number>501269635</booking_number>
+         <shipper_code>10000007951</shipper_code>
+         <consignee_code>10000007951</consignee_code>
+         <shipment_status>RED</shipment_status>
+         <reason_code>1001</reason_code>
+         <reason_text>THE CONTAINER HAS BEEN REMOVED</reason_text>
+         <discharge_list_line>
+            <container_details is_empty="false">
+               <equipment>
+                  <equipment_number>234325</equipment_number>
+                  <equipment_size>20</equipment_size>
+                  <equipment_type>DRY</equipment_type>
+                  <equipment_iso_code>22G0</equipment_iso_code>
+               </equipment>
+               <operator>MSK</operator>
+               <gross_weight>2246</gross_weight>
+               <vgm_status>N</vgm_status>
+               <place_of_delivery>LKCMBOD</place_of_delivery>
+               <commodity>
+                  <bill_of_lading_number>501269636</bill_of_lading_number>
+                  <commodity_description>TOYS, GAMES</commodity_description>
+               </commodity>
+            </container_details>
+            <vessel_slot_number />
+            <load_port>INKATTM</load_port>
+         </discharge_list_line>
+         <discharge_list_line>
+            <container_details is_empty="false">
+               <equipment>
+                  <equipment_number>AM3525</equipment_number>
+                  <equipment_size>20</equipment_size>
+                  <equipment_type>DRY</equipment_type>
+                  <equipment_iso_code>22G0</equipment_iso_code>
+               </equipment>
+               <operator>MSK</operator>
+               <gross_weight>2246</gross_weight>
+               <vgm_status>N</vgm_status>
+               <place_of_delivery>LKCMBOD</place_of_delivery>
+               <commodity>
+                  <bill_of_lading_number>501269636</bill_of_lading_number>
+                  <commodity_description>TOYS, GAMES</commodity_description>
+               </commodity>
+            </container_details>
+            <vessel_slot_number />
+            <load_port>INKATTM</load_port>
+         </discharge_list_line>
+      </discharge_list_shipment>
+      <discharge_list_shipment>
+         <booking_number>501269636</booking_number>
+         <shipper_code>10000007951</shipper_code>
+         <consignee_code>10000007951</consignee_code>
+         <shipment_status>RED</shipment_status>
+         <reason_code>1001</reason_code>
+         <reason_text>THE CONTAINER HAS BEEN REMOVED</reason_text>
+         <discharge_list_line>
+            <container_details is_empty="false">
+               <equipment>
+                  <equipment_number>42343</equipment_number>
+                  <equipment_size>20</equipment_size>
+                  <equipment_type>DRY</equipment_type>
+                  <equipment_iso_code>22G0</equipment_iso_code>
+               </equipment>
+               <operator>MSK</operator>
+               <gross_weight>2246</gross_weight>
+               <vgm_status>N</vgm_status>
+               <place_of_delivery>LKCMBOD</place_of_delivery>
+               <commodity>
+                  <bill_of_lading_number>501269637</bill_of_lading_number>
+                  <commodity_description>TOYS, GAMES</commodity_description>
+               </commodity>
+            </container_details>
+            <vessel_slot_number />
+            <load_port>INKATTM</load_port>
+         </discharge_list_line>
+         <discharge_list_line>
+            <container_details is_empty="false">
+               <equipment>
+                  <equipment_number>6565343</equipment_number>
+                  <equipment_size>20</equipment_size>
+                  <equipment_type>DRY</equipment_type>
+                  <equipment_iso_code>22G0</equipment_iso_code>
+               </equipment>
+               <operator>MSK</operator>
+               <gross_weight>2246</gross_weight>
+               <vgm_status>N</vgm_status>
+               <place_of_delivery>LKCMBOD</place_of_delivery>
+               <commodity>
+                  <bill_of_lading_number>501269637</bill_of_lading_number>
+                  <commodity_description>TOYS, GAMES</commodity_description>
+               </commodity>
+            </container_details>
+            <vessel_slot_number />
+            <load_port>INKATTM</load_port>
+         </discharge_list_line>
+      </discharge_list_shipment>
+      <discharge_list_shipment>
+         <booking_number>501270236</booking_number>
+         <shipment_status>RED</shipment_status>
+         <reason_code>1002</reason_code>
+         <reason_text>GCSS DUMMY CONTAINER UNMATCHED WITH RKEM</reason_text>
+         <discharge_list_line>
+            <container_details is_empty="false">
+               <equipment>
+                  <equipment_number>DUMM4887030</equipment_number>
+                  <equipment_size>20</equipment_size>
+                  <equipment_type>DRY</equipment_type>
+                  <equipment_iso_code>22G0</equipment_iso_code>
+               </equipment>
+               <operator>MSK</operator>
+               <gross_weight>2065</gross_weight>
+               <vgm_status>N</vgm_status>
+               <place_of_delivery>LKCMBOD</place_of_delivery>
+               <commodity>
+                  <bill_of_lading_number>501270237</bill_of_lading_number>
+                  <commodity_description>TOYS, GAMES</commodity_description>
+               </commodity>
+            </container_details>
+            <vessel_slot_number />
+            <load_port>INKATTM</load_port>
+         </discharge_list_line>
+         <discharge_list_line>
+            <container_details is_empty="false">
+               <equipment>
+                  <equipment_number>DUMM4887031</equipment_number>
+                  <equipment_size>20</equipment_size>
+                  <equipment_type>DRY</equipment_type>
+                  <equipment_iso_code>22G0</equipment_iso_code>
+               </equipment>
+               <operator>MSK</operator>
+               <gross_weight>2065</gross_weight>
+               <vgm_status>N</vgm_status>
+               <place_of_delivery>LKCMBOD</place_of_delivery>
+               <commodity>
+                  <bill_of_lading_number>501270237</bill_of_lading_number>
+                  <commodity_description>TOYS, GAMES</commodity_description>
+               </commodity>
+            </container_details>
+            <vessel_slot_number />
+            <load_port>INKATTM</load_port>
+         </discharge_list_line>
+      </discharge_list_shipment>
+   </discharge_list>
+</gleoReport>
